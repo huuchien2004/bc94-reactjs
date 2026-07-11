@@ -1,3 +1,31 @@
 === Buổi 1 ===
 * SPA
 * Component
+
+=== Buổi 2 ===
+* Rendering element (Data binding): khi gọi trong hàm phải có () còn onClick thì không cần khi nào có tham số thì có! 
+* Handle Event
+* State: Component re-render lại lần mới khi state có giá trị thay đổi
+* List Key
+
+=== Buổi 3 ===
+* List Key
+* Làm bài tập buổi 25 - Glasses
+
+=== Buổi 4 ===
+* Communication
+    * Props: Truyền data từ componenet cha => component con
+    * Lifiting state up: Truyền data từ componenet con => component cha 
+
+=== Buổi 5 ===
+    * Shopping phone
+
+=== Buổi 6 ===
+    Redux toolkit: store
+    React-redux: Ket noi store voi reactjs
+        -useSelector: lay du lieu tu reducer xuong component
+        -useDispatch: đẩy dữ liệu từ componenent => reducer
+
+=== Buổi 7 ===
+    * Shopping Phone Redux
+    Redux: 

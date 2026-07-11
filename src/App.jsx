@@ -5,7 +5,17 @@
 // import State from "./state";
 // import ExampleLogin from "./example-login";
 // import ExampleCar from "./example-car";
-import ExampleBuoi25 from "./example-buoi25";
+// import ExampleBuoi25 from "./example-buoi25";
+// import ListKey from "./list-key";
+// import Communication from "./communication";
+// import ShoppingPhone from "./shopping-phone";
+// import Demo from "./demo-shopping-phone";
+
+/* BaiTap Buoi 27 */
+// import ShoeStore from "./shoe-store";
+
+// import ShoppingPhoneRedux from "./shopping-phone-redux";
+import BookingSeat from "./booking-seat";
 
 function App() {
   return (
@@ -17,7 +27,19 @@ function App() {
       {/* <State /> */}
       {/* <ExampleLogin /> */}
       {/* <ExampleCar /> */}
-      <ExampleBuoi25 />
+      {/* <ExampleBuoi25 /> */}
+      {/* <ListKey /> */}
+      {/* <Communication /> */}
+      {/* <ShoppingPhone /> */}
+      {/* <Demo /> */}
+
+      {/* **************** */}
+      {/* BaiTap Buoi 27 */}
+      {/* <ShoeStore /> */}
+      {/* **************** */}
+
+      {/* <ShoppingPhoneRedux /> */}
+      <BookingSeat />
     </>
   );
 }
